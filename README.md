@@ -1,5 +1,5 @@
 ![Bharath's GitHub profile README.md welcome banner image](https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif "Welcome to Bharath's GitHub")
-## I'm an Aspiring Data Scientist with a strong analytical background, and 4+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions. #The_Bharatha <br>
+## I'm a Data Scientist and Software Developer with a strong analytical background, and 4+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions. #The_Bharatha <br>
 
 ## I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges on LeetCode and HackerRank. <br>
 
